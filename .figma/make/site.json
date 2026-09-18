@@ -1,0 +1,10 @@
+{
+  "description": "Design and launch modern Web3 landing pages featuring engaging hero sections, effective CTAs, and comprehensive FAQs to enhance user engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
